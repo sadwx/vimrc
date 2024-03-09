@@ -1,0 +1,2 @@
+set rnu!
+colorscheme dracula
