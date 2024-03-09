@@ -1,0 +1,3 @@
+[submodule "my_plugins/vim-fish"]
+	path = my_plugins/vim-fish
+	url = https://github.com/dag/vim-fish
